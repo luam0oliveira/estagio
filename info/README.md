@@ -7,22 +7,22 @@
 <ul>
     <li>
         <a href="#sobre-o-curso">Sobre o curso</a>
-        </li>
-        <li>
-            <a href="#projetos">Projetos</a>
-        </li>
-        <li>
-            <a href="#disciplinas">Disciplinas</a>
-        </li>
-        <li>
-            <a href="#quadro-docente">Quadro Docente</a>
-        </li>
-        <li>
-            <a href="#eventos">Eventos</a>
-        </li>
-        <li>
-            <a href="#depoimentos-de-egressos">Depoimentos de egressos</a>
-        </li>
+    </li>
+    <li>
+        <a href="#projetos">Projetos</a>
+    </li>
+    <li>
+        <a href="#disciplinas">Disciplinas</a>
+    </li>
+    <li>
+        <a href="#quadro-docente">Quadro Docente</a>
+    </li>
+    <li>
+        <a href="#eventos">Eventos</a>
+    </li>
+    <li>
+        <a href="#depoimentos-de-egressos">Depoimentos de egressos</a>
+    </li>
 </ul>
 
 <hr/>
@@ -104,4 +104,4 @@ O **Curso Técnico em Informática** do Instituto Federal Catarinense – Campus
 
 O **Curso Técnico de Informática** do Instituto Federal Catarinense – Campus Videira transforma a vida de várias pessoas, muitos dos que concluem o curso, percebem que desenvolveram muitas habilidades da área.
 
-<a href="src/pages/depoimentos.md"><img src="https://img.shields.io/badge/-depoimento%20de%20egresso-037623?style=for-the-badge&color=037623"></a>
+<a href="src/pages/depoimentos-egressos.md"><img src="https://img.shields.io/badge/-depoimento%20de%20egresso-037623?style=for-the-badge&color=037623"></a>

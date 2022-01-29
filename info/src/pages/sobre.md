@@ -49,8 +49,7 @@ A carga horária total contempla práticas profissionais, que deverá ser cumpri
 ---
 
 ### Possibilidades de atuação
-
-   Instituições públicas, privadas e do terceiro setor que demandem sistemas computacionais, especialmente envolvendo programação e manutenção de computadores.
+Instituições públicas, privadas e do terceiro setor que demandem sistemas computacionais, especialmente envolvendo programação e manutenção de computadores.
 
 ### Forma de ingresso
 

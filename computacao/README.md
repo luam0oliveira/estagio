@@ -22,6 +22,7 @@
 * <a href="#eventos">Eventos</a>
 * <a href="#galeria">Galeria</a>
 * <a href="#egresso">Perfil do egresso</a>
+* <a href="#depoimento-egresso">Depoimentos de egresso</a>
 * <a href="#info">Mais informações</a>
 
 <p align="center">
@@ -45,8 +46,9 @@ O Curso visa a uma formação que capacite o profissional à solução de proble
 </p>
   
 ## <div id="projetos" align="center"> Projetos </div>
+A instituição desenvolve todos os anos novos projetos de pesquisa e extensão.
 
-Você pode encontrar os projetos do curso <a href="src/projetos.md">aqui!</a>
+Você pode encontrar os projetos do curso <a href="src/pages/projetos.md">aqui!</a>
   
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
   
@@ -174,6 +176,16 @@ Você pode encontrar a galeria de fotos do curso <a href="https://cienciacomputa
 ## <div id="egresso" align="center">Perfil do egresso</div>
   
 Você pode encontrar a página do perfil do egresso <a href="src/pages/perfil-egresso.md">aqui!</a>
+
+<p align="center">Voltar ao <a href="#nav">topo</a></p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/87784393/127034300-d8d12eae-8351-4174-9884-6f58ede80758.png" />
+</p>  
+
+## <div id="depoimento-egresso" align="center">Depoimentos de egresso</div>
+
+Você pode encontrar a página do perfil do egresso <a href="src/pages/depoimento-egresso.md">aqui!</a>
 
 <p align="center">Voltar ao <a href="#nav">topo</a></p>
 
