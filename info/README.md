@@ -9,6 +9,9 @@
         <a href="#sobre-o-curso">Sobre o curso</a>
     </li>
     <li>
+        <a href="ingresso">Página de ingresso</a>
+    </li>
+    <li>
         <a href="#projetos">Projetos</a>
     </li>
     <li>
@@ -19,6 +22,9 @@
     </li>
     <li>
         <a href="#eventos">Eventos</a>
+    </li>
+    <li>
+        <a href="#perfil-de-egresso">Perfil de egresso</a>
     </li>
     <li>
         <a href="#depoimentos-de-egressos">Depoimentos de egressos</a>
@@ -36,9 +42,16 @@ Além da formação técnica, o curso proporciona o desenvolvimento de habilidad
 A carga horária total contempla práticas profissionais, que deverá ser cumprida pelo estudante para obter o certificado de conclusão do curso. As práticas profissionais poderão ser cumpridas durante ou após o período de formação, devendo ser concluídas em um prazo máximo de dois semestre após a conclusão das disciplinas.
  
 <a href="src/pages/sobre.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20o%20curso-green?style=for-the-badge&color=037623"/></a>
- 
+
+## <div id="ingresso"> Página de ingresso</div>
+Todos os anos a instituição abre vagas para o ingresso de novas pessoas.
+
+<a href="src/pages/pagina-do-ingresso"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20o%20ingresso-green?style=for-the-badge&color=037623"/></a>
 
 ## Projetos
+A instituição desenvolve todos os anos novos projetos de pesquisa e extensão.
+
+<a href="src/pages/projetos"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20os%20projetos-green?style=for-the-badge&color=037623"/></a>
 
 ## Disciplinas
 
@@ -99,6 +112,10 @@ Docente | Disciplinas Ministradas
 O **Curso Técnico em Informática** do Instituto Federal Catarinense – Campus Videira dispõe de vários eventos que visam a imersão do aluno nos setores da informática, como a <a href="src/pages/eventos.md#semana-da-computação-e-informática">Semana da Computação e Informática</a>, a <a href="src/pages/eventos.md#feira-de-iniciação-científica-e-extensão">Feira de Iniciação Científica e Extensão</a>, e visitas técnicas para a <a href="src/pages/eventos.md#BGS">BGS</a> e <a href="src/pages/eventos.md#GeekCity">GeekCity</a>.
 
 <a href="src/pages/eventos.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20os%20eventos-green?style=for-the-badge&color=037623"/></a>
+
+## Perfil de Egresso
+
+<a href="src/pages/perfil-egresso.md"><img src="https://img.shields.io/badge/-Mais%20informa%C3%A7%C3%B5es%20sobre%20o%20perfil%20de%20egresso-green?style=for-the-badge&color=037623"/></a>
 
 ## Depoimentos de egressos
 
